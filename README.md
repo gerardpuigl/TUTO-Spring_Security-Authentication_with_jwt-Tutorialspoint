@@ -3,7 +3,7 @@
 ### Description
 The application handle basic user authentication and authorization with JWT’s. 
 
-The use of JWT token for authorization is the most common of its applications. The token is usually generated in the server and sent to the client where it is stored in the session storage or local storage. To access a protected resource the client would send the JWT in the header as given above. We will see the JWT implementation in Spring S
+The use of JWT token for authorization is the most common of its applications. The token is usually generated in the server and sent to the client where it is stored in the session storage or local storage. To access a protected resource the client would send the JWT in the header as given above. We will see the JWT implementation in Spring Security.
 
 Each class has added the explanation of each class & method inside.
 
