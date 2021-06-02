@@ -1,4 +1,5 @@
 ## Spring Security JWT Tutorial
+This exercice is done following this tutorial: https://www.tutorialspoint.com/spring_security/spring_security_with_jwt.htm
 
 ### Description
 The application handle basic user authentication and authorization with JWT’s. 
@@ -18,5 +19,3 @@ The order to read & understand this repository is:
 7) JwtAuthenticationEntryPoint.java
 8) WebSecurityConfig.java
 
-### Font
-This exercice is done following this tutorial: https://www.tutorialspoint.com/spring_security/spring_security_with_jwt.htm
