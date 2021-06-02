@@ -14,7 +14,7 @@ The order to read & understand this repository is:
 2) JwtUserDetailsService.java
 3) JwtRequestModel.java
 4) JwtResponseModel.java
-5) JwtController.java.java
+5) JwtController.java
 6) JwtFilter.java
 7) JwtAuthenticationEntryPoint.java
 8) WebSecurityConfig.java
